@@ -1,7 +1,7 @@
 # Определение перспективного тарифа для телеком компании
 
 ### Библиотеки:
-**Pandas, Numpy, SciPy Matplotlib, Seaborn**
+**Pandas, Numpy, SciPy, Matplotlib, Seaborn**
 
 ---
 ### Описание проекта
