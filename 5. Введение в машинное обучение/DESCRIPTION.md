@@ -1,7 +1,7 @@
 # Рекомендация тарифов телеком-компании
 
 ### Библиотеки:
-**Pandas, Numpy, SciPy, Matplotlib, Seaborn**
+**Pandas, Numpy, Sklearn, Matplotlib**
 
 ---
 ### Описание проекта
